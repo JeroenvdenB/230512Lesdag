@@ -35,5 +35,6 @@ public abstract class Animal {
 	}
 	
 	//Niet alle dieren springen
+	//Ik ook niet.
 	
 }
