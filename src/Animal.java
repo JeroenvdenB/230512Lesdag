@@ -34,4 +34,6 @@ public abstract class Animal {
 		this.legs = legs;
 	}
 	
+	//Niet alle dieren springen
+	
 }
